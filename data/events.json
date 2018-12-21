@@ -1,1 +1,1 @@
-[null]
+[null,{"name":"Dołączenie","temp":"join","event-type":"6","actions":[{"info":"1","find":"osoby","storage":"1","varName":"kanał","name":"Find Channel"},{"channel":"5","varName":"kanał","message":"${tempVars(\"join\")} dołączył na serwer! :clap:","storage":"0","varName2":"","name":"Send Message"}]}]
